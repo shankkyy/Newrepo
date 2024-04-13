@@ -1,0 +1,63 @@
+.App {
+  padding: 20px;
+}
+
+.lists {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.link-container {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.button {
+  background-color: #f0a500;
+  margin-right: 10px;
+  border-radius: 20px;
+  border: 2px solid #c0bebd; 
+  font-weight: bold;
+  padding: 10px;
+}
+
+.button:hover {
+  border: 2px solid black; 
+}
+
+.delete-button {
+  background-color: #c0bebd; 
+  color: #ffffff; 
+  border: none;
+  border-radius: 50%;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.input-container {
+  margin-top: 20px;
+}
+
+input[type="text"] {
+  width: calc(100% - 80px);
+  padding: 8px;
+  margin-right: 10px;
+}
+
+button {
+  background-color: #009688; 
+  color: #ffffff; 
+  padding: 8px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+  input[type="text"] {
+    width: calc(100% - 70px);
+  }
+
+  button {
+    padding: 8px 15px;
+  }
+}
