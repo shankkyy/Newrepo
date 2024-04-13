@@ -7,8 +7,8 @@
       "default_title":"salvi",
       "default_popup":"index.html",
       "default_icon":{
-          "16":"logo192.png",
-          "128":"logo192.png"
+          "16":"favi.png",
+          "128":"favi.png"
       }
   }
 }
