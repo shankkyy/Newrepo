@@ -18,7 +18,7 @@ Follow these steps to install the Salvi Chrome Extension:
    - Select the unzipped folder containing the extension files.
 
 4. **Select Build Folder**:
-   - Inside the unzipped folder, navigate to the "build" folder and select it.
+   - Inside the unzipped folder, navigate to the "build" folder (twice check that the selected forlder is build folder) and select it.
 
 5. **Extension Installed!**:
    - You should see the Salvi Chrome Extension added to your list of extensions.
